@@ -6,10 +6,12 @@ Python download: https://www.python.org/downloads/release/python-386/
 
 To install required libraries run "python -m pip install -r requirements.txt" in a terminal at the location of this file
 
-Language Requirements:
+##Language Requirements:
+
 Python 3.8
 
-Libraries:
+##Libraries:
+
 Pandas
 Numba
 Numpy
