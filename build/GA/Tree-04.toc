@@ -1,0 +1,7 @@
+('c:\\users\\corey\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\llvmlite-0.35.0rc2-py3.8-win-amd64.egg',
+ None,
+ {'*.pyd', 'EGG-INFO', '*.py', '*.pyw', '*.cp38-win_amd64.pyd', '*.pyc'},
+ 'DATA',
+ [('llvmlite\\binding\\llvmlite.dll',
+   'c:\\users\\corey\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\llvmlite-0.35.0rc2-py3.8-win-amd64.egg\\llvmlite\\binding\\llvmlite.dll',
+   'DATA')])

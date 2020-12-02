@@ -123,4 +123,6 @@ data = {'min': F_min_arr,
         'avg': F_avg_arr
     }
 df = pd.DataFrame(data, columns=["min", "avg"])
-df.to_csv("ga.csv")
+# Uncomment to save results to csv file
+#df.to_csv("ga.csv")
+input('Press enter to close')
